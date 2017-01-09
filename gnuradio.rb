@@ -31,7 +31,7 @@ class Gnuradio < Formula
   depends_on "fftw"
   depends_on "gsl"
   depends_on "zeromq"
-  depends_on "swig" => :build
+  depends_on "swig"
   depends_on "cmake" => :build
 
   # For documentation
