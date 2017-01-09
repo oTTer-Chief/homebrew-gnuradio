@@ -9,7 +9,7 @@ class GrOsmosdr < Formula
   version "osmosdr"
 
   depends_on "cmake" => :build
-  depends_on "gnuradio"
+  depends_on "otter-chief/gnuradio/gnuradio"
   depends_on :python
 
   resource "Markdown" do
