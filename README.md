@@ -1,4 +1,3 @@
-[Gnuradio](http://gnuradio.org/) with `gnuradio-companion` (unlike in homebrew
-core) and `wxgui`.
+[Gnuradio](http://gnuradio.org/) with `gnuradio-companion` and `swig` includes (`wxgui` only)
 
-    brew tap kolen/homebrew-gnuradio
+    brew tap otter-chief/homebrew-gnuradio
